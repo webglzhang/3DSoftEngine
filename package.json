@@ -1,0 +1,28 @@
+{
+  "name": "3dsoftengine",
+  "version": "1.0.0",
+  "description": "一款3D软渲染引擎，探索opengl究竟如何work",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webglzhang/3DSoftEngine.git"
+  },
+  "author": "webglzhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webglzhang/3DSoftEngine/issues"
+  },
+  "homepage": "https://github.com/webglzhang/3DSoftEngine#readme",
+  "dependencies": {
+  
+  },
+  "devDependencies": {
+   
+  }
+}

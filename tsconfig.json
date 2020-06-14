@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",//打包到dist目录下
+    "module": "es6", //遵循ES module
+    "target": "es5", //最终转换成es5
+    "allowJs": true  //允许引入js代码
+  },
+  "include": ["example/**.ts","render/**.ts","math/**.ts"],
+  "exclude": ["node_modules", "dist", "**/*.test.ts"]
+}
